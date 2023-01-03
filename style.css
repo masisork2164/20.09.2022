@@ -1,0 +1,30 @@
+#head
+{
+    
+    height: 100px;
+    text-align: center;
+
+}
+#head p
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#mid p
+{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+#text 
+{
+    text-align: center;
+    font-size: 15px;
+    
+}
+#text p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
